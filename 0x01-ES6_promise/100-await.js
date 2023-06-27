@@ -1,6 +1,6 @@
 import { uploadPhoto, createUser } from './utils';
 
-const asyncUploadUser = async () => {
+const asyncUploadUser = async() => {
   let photo;
   let user;
   try {
