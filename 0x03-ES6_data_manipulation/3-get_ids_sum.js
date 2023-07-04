@@ -1,3 +1,3 @@
 export default function getStudentIdsSum(objList) {
-	  return objList.reduce((count, Obj) => count + Obj.id, 0);
+  return objList.reduce((count, Obj) => count + Obj.id, 0);
 }
