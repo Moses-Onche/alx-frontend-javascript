@@ -27,7 +27,7 @@ const director1: Directors = {
     location: 'austin',
     fullTimeEmployee: true,
     numberOfReports: 17,
-  };
+};
 
 console.log(director1);
 
