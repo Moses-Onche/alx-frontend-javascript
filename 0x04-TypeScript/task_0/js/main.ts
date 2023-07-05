@@ -11,6 +11,7 @@ const student1: Student = {
     age: 24,
     location: 'milan',
 };
+
 const student2: Student = {
     firstName: 'ola',
     lastName: 'davidson',
