@@ -34,7 +34,7 @@ class Teacher implements TeacherInterface {
     }
 
     workTeacherTasks(): string {
-        return 'Getting to work';
+        return 'Getting to work ';
     }
 }
 
